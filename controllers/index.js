@@ -28,3 +28,4 @@ promise.then(function(res){
     console.log(error)
 });
 // http://svcy.myclass.vn/swagger/ui/index
+//aaaaa
