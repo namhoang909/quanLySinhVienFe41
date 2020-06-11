@@ -7,3 +7,4 @@ var sinhVien = function () {
   this.DiemLy='';
   this.DiemHoa='';
 } 
+//aaaaa
